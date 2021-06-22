@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Project20210608_4roup</string>
+    <string name="High_score">最高分數</string>
+    <string name="score">分數</string>
+    <string name="text_2048">2048</string>
+    <string name="Again_text">重置</string>
+    <string name="game_textView">小遊戲整合</string>
+    <string name="gmae1_name">2048</string>
+    <string name="game2_name">打地鼠</string>
+    <string name="text_GO">GO</string>
+</resources>
